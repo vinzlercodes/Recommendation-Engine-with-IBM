@@ -1,6 +1,11 @@
 # Recommendation-Engine-with-IBM
 A recommendation engine developed utilizing IBM Watson Studio Community user data for better article recommendations 
 
+------
+
+## Note:
+Since the user matrix file is too large to upload through the browser github the link that file is [here](https://drive.google.com/file/d/1FupIzJfkgOdEGF9b6GM6nO4u4HT27ofD/view?usp=sharing). Download it and keep it in the same directory as the main jupter notebook.
+
 ----
 
 ## Project Motivation
