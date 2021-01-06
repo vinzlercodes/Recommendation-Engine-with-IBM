@@ -37,3 +37,10 @@ Finally, you will complete a machine learning approach to building recommendatio
 Given the amount of content available for each article, there are a number of different ways in which someone might choose to implement a content based recommendations system. Using your NLP skills, you might come up with some extremely creative ways to develop a content based recommendation system. You are encouraged to complete a content based recommendation system, but not required to do so to complete this project.
 
 As other work to show off your skills, you can configure your code into a class and deploy your code to a flask app. Alternatively, you could deploy using Heroku. Again, these steps are not required to complete the project, but can help you push your skills and show off your work to the world.
+
+---
+
+If you do find this repository useful, why not give a star and even let me know about it!
+
+Feel free to express issues and feedback as well, cheers!
+
